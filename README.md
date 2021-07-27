@@ -1,2 +1,2 @@
-# aiden.github.io
+# aiden-choi.github.io
 personal blog
